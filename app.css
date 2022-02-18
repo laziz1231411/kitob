@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo img {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.logo h1 {
+    display: inline-block;
+    color: #565353;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+.logo{
+    width: 960px;
+    margin: 0 auto;
+}
+.menu-content li {
+    display: inline-block;
+    padding: 10px 20px;
+    color: rgb(130, 68, 2);
+    cursor: pointer;
+}
+.menu-content li:hover {
+    background-color: yellowgreen;
+
+}
+.menu-content {
+    width: 960px;
+    margin: 0 auto;
+    padding: 10  ;
+}
+.menu {
+    background-color: goldenrod;
+}
