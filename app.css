@@ -35,3 +35,9 @@
 .menu {
     background-color: goldenrod;
 }
+.container hr {
+    margin: 25px;
+}
+.card img {
+    box-shadow: 3px 0px 11px 3px #888888;
+}
